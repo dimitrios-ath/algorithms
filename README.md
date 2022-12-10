@@ -1,3 +1,3 @@
 # algorithms
 
-Submited exercises for algorithms university course (2022)
+Submitted exercises for algorithms university course (2022)
